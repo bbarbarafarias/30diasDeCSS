@@ -41,7 +41,7 @@
 ![dia 07](https://github.com/bbarbarafarias/30diasDeCSS/blob/master/Desafios/Dia%2007/dia07.gif)
 
 ## DIA 08
-* Dia 08 - Botão On/Off <a href="https://github.com/bbarbarafarias/30diasDeCSS/tree/master/Desafios/Dia%2008">Link para meu código</a>
+* Dia 08 - Botão Search<a href="https://github.com/bbarbarafarias/30diasDeCSS/tree/master/Desafios/Dia%2008">Link para meu código</a>
 ### O que eu aprendi 
 ###### :hover, :nth-child() e transform: rotate()
 ![dia 08](https://github.com/bbarbarafarias/30diasDeCSS/blob/master/Desafios/Dia%2008/dia08.gif)
