@@ -1,0 +1,30 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+h1 {
+    color: yellow;
+    font-size: 80px;
+    font-family: 'Regular 400';
+}
+
+span::before {
+    content: '';
+    animation: word-swith 3s infinite;
+}
+
+@keyframes word-swith {
+    0% {
+        content: '💻'
+    }
+    100% {
+        content: '\01F368';
+    }
+    50% {
+        content: '	\01F3D6 \FE0F';
+    }
+}
